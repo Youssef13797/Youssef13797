@@ -10,38 +10,45 @@
 🎓 **Education:** CIS Graduate & Postgraduate Data Science Student at **Cairo University**.
 💼 **Current Role:** Report Analyst at **Target Agency**, managing operational reporting, data integration, and BI dashboards.
 📜 **Certifications:** McKinsey Forward Program Graduate & Google Digital Marketing Professional.
-🌱 **Technical Focus:** Python (Pandas, NumPy, Scikit-Learn, Plotly, Seaborn), SQL, Power BI, Advanced EDA, and Predictive Modeling.
+🌱 **Technical Focus:** Predictive Modeling, Deep Learning, MLOps, and Advanced EDA.
 🏋️ **Interests:** Practicing Muay Thai, strength training, reading social science & philosophy, and tactical gaming.
-✉️ **Connect:** Feel free to reach out for data science discussions, projects, or networking!
+✉️ **Connect:** Feel free to reach out for data science discussions, freelance projects, or networking!
 
 ---
 
-## 🛠️ Tech Stack & Data Science Toolkit
+## 🛠️ Tech Stack & AI Toolkit
 
 <p align="center">
-  <b>Languages & Querying:</b><br/>
+  <b>Languages & Databases:</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br/><br/>
-  <b>Data Science & Machine Learning:</b><br/>
+  <b>Machine Learning & Deep Learning:</b><br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <br/><br/>
+  <b>Data Science & Visualization:</b><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <br/><br/>
-  <b>Business Intelligence & Analytics:</b><br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <br/><br/>
+  <b>MLOps, Deployment & Tools:</b><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ My End-to-End Data Pipeline
+## ⚙️ My End-to-End AI & Data Pipeline
 
 ```text
-🔍 1. Data Collection & Scraping  ──► Web Scraping (BeautifulSoup/Python) & SQL Extraction
-🧹 2. Wrangling & Preprocessing   ──► Pandas, Handling Missing Values & Feature Engineering
-📊 3. EDA & Machine Learning      ──► Seaborn, Plotly & Scikit-Learn Predictive Modeling
-📈 4. Business Intelligence       ──► Dynamic Power BI Dashboards & Actionable Insights
+🔍 1. Data Collection & Preprocessing ──► SQL, Pandas & Feature Engineering
+🤖 2. Machine Learning & Deep Learning ──► Scikit-Learn, XGBoost, TensorFlow & PyTorch
+⚙️ 3. MLOps & Model Deployment       ──► Building APIs with FastAPI & Containerization with Docker
+📊 4. Business Intelligence          ──► Dynamic Power BI Dashboards & Actionable Insights
