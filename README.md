@@ -2,17 +2,17 @@
 <h3 align="center">Report Analyst @ Target Agency | Data Science Postgraduate @ Cairo University | Aspiring ML & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+BI+Specialist;Data+Science+Postgraduate;Machine+Learning+%26+AI+Enthusiast;Python+%7C+SQL+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Report+Analyst;Data+Scientist" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
 
-🎓 &nbsp;**Education:** CIS Graduate & Postgraduate Data Science Student at **Cairo University**.\
-💼 &nbsp;**Current Role:** Report Analyst at **Target Agency**, managing operational reporting, data integration, and BI dashboards.\
-📜 &nbsp;**Certifications:** McKinsey Forward Program Graduate & Google Digital Marketing Professional.\
-🌱 &nbsp;**Technical Focus:** Python (Pandas, NumPy, Scikit-Learn, Plotly, Seaborn), SQL, Power BI, Advanced EDA, and Predictive Modeling.\
-🏋️ &nbsp;**Interests:** Practicing Muay Thai, strength training, reading social science & philosophy, and tactical gaming.\
-✉️ &nbsp;**Connect:** Feel free to reach out for data science discussions, projects, or networking!
+🎓 **Education:** CIS Graduate & Postgraduate Data Science Student at **Cairo University**.
+💼 **Current Role:** Report Analyst at **Target Agency**, managing operational reporting, data integration, and BI dashboards.
+📜 **Certifications:** McKinsey Forward Program Graduate & Google Digital Marketing Professional.
+🌱 **Technical Focus:** Python (Pandas, NumPy, Scikit-Learn, Plotly, Seaborn), SQL, Power BI, Advanced EDA, and Predictive Modeling.
+🏋️ **Interests:** Practicing Muay Thai, strength training, reading social science & philosophy, and tactical gaming.
+✉️ **Connect:** Feel free to reach out for data science discussions, projects, or networking!
 
 ---
 
@@ -37,19 +37,18 @@
 
 <p align="center">
   <a href="https://github.com/Youssef13797" target="_blank">
-    <img src="https://img.icons8.com/fluent/36/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/youssef-emad2003
-" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/youssef-emad2003" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/https://www.kaggle.com/youssef13797" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/36/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learning-practitioners-logo-shadow-tal-revivo.png" alt="Kaggle"/>
+  <a href="https://www.kaggle.com/youssef13797" target="_blank">
+    <img src="https://img.icons8.com/windows/48/228BE6/kaggle.png" alt="Kaggle" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.icons8.com/color/36/000000/gmail.png" alt="Gmail"/>
+  <a href="mailto:youssef.emad.pro@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40"/>
   </a>
 </p>
