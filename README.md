@@ -16,39 +16,32 @@
 
 ---
 
-## 📊 GitHub & Tech Metrics
+## 🛠️ Tech Stack & Data Science Toolkit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef13797&show_icons=true&theme=tokyonight&hide_border=true" alt="Youssef's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef13797&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <b>Languages & Querying:</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <br/><br/>
+  <b>Data Science & Machine Learning:</b><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <br/><br/>
+  <b>Business Intelligence & Analytics:</b><br/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Repositories & Data Projects
+## ⚙️ My End-to-End Data Pipeline
 
-* 🚗 **[Cars-Motors-DB](https://github.com/Youssef13797/Cars-Motors-DB):** Comprehensive data cleaning and exploratory data analysis (EDA) on a 500k+ car auction dataset using Python.
-* 📊 **[Churn-Modelling-Analysis](https://github.com/Youssef13797/Churn-Modelling-Analysis):** Exploratory data analysis and churn indicator identification for banking customers using Python, Seaborn, and Plotly.
-* ⚽ **[YallaKora-Football-Match-Data-Scraper](https://github.com/Youssef13797/YallaKora-Football-Match-Data-Scraper):** Automated Python web-scraping pipeline designed to extract football match data from YallaKora.
-
----
-
-## 🌐 Connect & Socials
-
-<p align="center">
-  <a href="https://github.com/Youssef13797" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/youssef-emad2003" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/youssef13797" target="_blank">
-    <img src="https://img.icons8.com/windows/48/228BE6/kaggle.png" alt="Kaggle" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:youssef.emad.pro@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40"/>
-  </a>
-</p>
+```text
+🔍 1. Data Collection & Scraping  ──► Web Scraping (BeautifulSoup/Python) & SQL Extraction
+🧹 2. Wrangling & Preprocessing   ──► Pandas, Handling Missing Values & Feature Engineering
+📊 3. EDA & Machine Learning      ──► Seaborn, Plotly & Scikit-Learn Predictive Modeling
+📈 4. Business Intelligence       ──► Dynamic Power BI Dashboards & Actionable Insights
